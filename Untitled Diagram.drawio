@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T23:13:32.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="s2Iy2uKozqw2sg0h0qq3" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T23:21:00.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="_qthyNDi0-s_ClGkrwx2" version="12.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
               <mxPoint x="240" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lje-nCFNsl1qw1t_iuet-0" target="Z_TS1K_1lkuzl-0jUQaW-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lje-nCFNsl1qw1t_iuet-0" value="&lt;b&gt;Yedek Bilgisayar&lt;br&gt;&lt;/b&gt;STM32F103C8T6 Bluepill" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="240" width="100" height="100" as="geometry" />
@@ -32,7 +35,7 @@
         <mxCell id="Z_TS1K_1lkuzl-0jUQaW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lje-nCFNsl1qw1t_iuet-2" target="lje-nCFNsl1qw1t_iuet-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lje-nCFNsl1qw1t_iuet-2" value="&lt;b&gt;GPS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="lje-nCFNsl1qw1t_iuet-2" value="&lt;b&gt;GPS&lt;/b&gt;&lt;br&gt;Adafruit Ultimate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lje-nCFNsl1qw1t_iuet-3" value="&lt;b&gt;Telemetri&lt;/b&gt;&lt;br&gt;E32-TTL-1W LoRa" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -44,11 +47,11 @@
         <mxCell id="lje-nCFNsl1qw1t_iuet-4" value="&lt;b&gt;10DOF IMU&lt;br&gt;&lt;/b&gt;BNO 055 + BMP 280" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lje-nCFNsl1qw1t_iuet-6" target="lje-nCFNsl1qw1t_iuet-0">
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lje-nCFNsl1qw1t_iuet-6" target="lje-nCFNsl1qw1t_iuet-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lje-nCFNsl1qw1t_iuet-6" value="&lt;b&gt;Barometre&lt;/b&gt;&lt;br&gt;BMP 388" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lje-nCFNsl1qw1t_iuet-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lje-nCFNsl1qw1t_iuet-7" target="lje-nCFNsl1qw1t_iuet-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,6 +61,30 @@
         </mxCell>
         <mxCell id="Z_TS1K_1lkuzl-0jUQaW-12" value="&lt;b&gt;Paraşütler&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-19" target="Z_TS1K_1lkuzl-0jUQaW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-19" target="Z_TS1K_1lkuzl-0jUQaW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-19" value="&lt;b&gt;Bilgisayar&lt;br&gt;&lt;/b&gt;STM32F103C8T6 Bluepill" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-20" target="Z_TS1K_1lkuzl-0jUQaW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-20" value="&lt;b&gt;GPS&lt;/b&gt;&lt;br&gt;Adafruit Ultimate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-21" value="&lt;b&gt;Telemetri&lt;/b&gt;&lt;br&gt;E32-TTL-1W LoRa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-24" value="&lt;b&gt;SD Card &lt;br&gt;modülü&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-31" value="&lt;b&gt;SD Card &lt;br&gt;modülü&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

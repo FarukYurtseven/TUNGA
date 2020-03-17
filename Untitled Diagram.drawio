@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T19:42:30.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="jXeWI_qb4Km19QIExp_Q" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-17T19:43:49.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="BG8Thnb8sWCtZOM1eISU" version="12.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="lje-nCFNsl1qw1t_iuet-7" value="&lt;b&gt;6DOF IMU&lt;br&gt;&lt;/b&gt;BMI 088" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-12" value="&lt;b&gt;Paraşütler&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-12" value="&lt;b&gt;Ayırma Sistemi&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_TS1K_1lkuzl-0jUQaW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-19" target="Z_TS1K_1lkuzl-0jUQaW-21" edge="1">

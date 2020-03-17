@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T20:07:50.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="CGtTv-z28vj8Rh43_jXp" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-17T20:12:25.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="owY-cAwpq02K0CxXdT5C" version="12.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -68,7 +68,7 @@
         <mxCell id="Z_TS1K_1lkuzl-0jUQaW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-19" target="Z_TS1K_1lkuzl-0jUQaW-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-19" value="&lt;b&gt;Bilgisayar&lt;br&gt;&lt;/b&gt;STM32F103C8T6 Bluepill" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Z_TS1K_1lkuzl-0jUQaW-19" value="&lt;b&gt;Bilgisayar&lt;br&gt;&lt;/b&gt;NUCLEO-G431KB" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="610" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z_TS1K_1lkuzl-0jUQaW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_TS1K_1lkuzl-0jUQaW-20" target="Z_TS1K_1lkuzl-0jUQaW-19" edge="1">

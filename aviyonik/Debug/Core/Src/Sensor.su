@@ -1,0 +1,4 @@
+Sensor.c:13:6:Sensor_location	16	static
+Sensor.c:21:6:Sensor_euler	16	static
+Sensor.c:27:6:Sensor_velocity	16	static
+Sensor.c:35:7:Sensor_filter	152	static

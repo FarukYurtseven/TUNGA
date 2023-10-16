@@ -1,0 +1,24 @@
+/*
+ * Gorev.c
+ *
+ *  Created on: Sep 1, 2020
+ *      Author: Merve
+ */
+#include "Sensor.h"
+#include "math.h"
+
+_Bool Gorev1(sBMP280_handle_t hBMP280){
+	if(Sensor_Data->Vz < 5.0) return 1;
+	else return 0;
+}
+
+
+
+_Bool Gorev2(sBMP280_handle_t hBMP280, _Bool Gorev1){
+
+	if(Gorev1){
+		if((Sensor_Data->Alt) < 650) return 1;
+		else return 0;
+	}
+	else return 0;
+}

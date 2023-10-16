@@ -1,0 +1,4 @@
+BNO055.c:12:6:BNO055_init	16	static
+BNO055.c:18:6:BNO055_get_euler	32	static
+BNO055.c:34:6:BNO055_read_reg	32	static
+BNO055.c:39:6:BNO055_write_reg	32	static

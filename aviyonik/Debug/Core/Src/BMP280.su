@@ -1,0 +1,5 @@
+BMP280.c:13:6:BMP280_init	24	static
+BMP280.c:31:6:BMP280_get_calibrate	40	static
+BMP280.c:51:6:BMP280_calc_alt	96	static
+BMP280.c:86:6:BMP280_readReg	32	static
+BMP280.c:93:6:BMP280_writeReg	32	static

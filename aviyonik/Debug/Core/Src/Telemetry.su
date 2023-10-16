@@ -1,0 +1,2 @@
+Telemetry.c:15:6:Telemetry_send_data	72	static
+Telemetry.c:41:6:float_to_uint8	24	static
